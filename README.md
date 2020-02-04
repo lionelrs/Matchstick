@@ -10,4 +10,4 @@ The losing player is the one to take the last matchstick.
 
 Usage:
 
-See example text file.
+./matchstick [number of lines] [max number of matches taken per turn]
