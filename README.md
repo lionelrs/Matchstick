@@ -1,4 +1,4 @@
-# matchstick
+# Matchstick
 Epitech Project, matchstick
 
 Subject:
